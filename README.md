@@ -9,7 +9,8 @@ Como estudante de Ciência da Computação na Universidade Católica de Pernambu
 Bora trocar uma ideia? Tô sempre de olho no Whatsapp caso queira compartilhar ideias e até bater um papo reto sobre computação em geral. Vamo que vamo!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoemiSoares&show_icons=true&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?NoemiSoares={NoemiSoares}&theme=tokyonight)
+ 
 ## Objetivos de Programação: 
 
 <div style="display: inline_block"><br>
