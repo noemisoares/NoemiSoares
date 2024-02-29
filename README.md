@@ -9,10 +9,6 @@
 
 </div>
 
-<div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="linkaqui"/>
-</div>
-
 # 🐼 SOBRE MIM
 
 <br>
@@ -110,7 +106,6 @@ Conecte-se comigo nas redes! Se precisar de ajuda ou tiver sugestões de projeto
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
@@ -120,17 +115,17 @@ Conecte-se comigo nas redes! Se precisar de ajuda ou tiver sugestões de projeto
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=noemisoares&bg_color=0d1117&color=8116C4&line=8A2BE2&point=5215BB&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=NoemiSoares&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+   <img src="https://github-profile-trophy.vercel.app/?username=noemisoares&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NoemiSoares&show_icons=true&count_private=true&hide_border=true&title_color=8116C4&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Noemi Soares Github Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=noemisoares&show_icons=true&count_private=true&hide_border=true&title_color=8116C4&icon_color=A020F0&text_color=c9d1d9&bg_color=0d1117" alt="Noemi Soares Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemisoares&layout=compact&hide_border=true&title_color=8116C4&text_color=A020F0&bg_color=0d1117" />
 </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NoemiSoares}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{noemisoares}/count.svg" /></p> 
 <br>
 </div>
 
@@ -150,7 +145,11 @@ Conecte-se comigo nas redes! Se precisar de ajuda ou tiver sugestões de projeto
 [<img align="right" alt="Voltar ao topo" width="80px" src="linkaqui"/>](linkgitpravoltarlaemcima)
 
 <br>
- 
+
+ <div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="linkaqui"/>
+</div>
+
  <div>
   <img align="center" alt="Pixel-Art" width="100%" src="linkgifhere"/>
 </div>
