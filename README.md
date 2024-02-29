@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Noemi+Soares.;I'm+18+years+old.;I'm+from+Brazil.;I'm+a+computer+science+student.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Noemi+Soares.;I'm+18+years+old.;I'm+from+Brazil.;I+love+all+foods.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="right">
 <br>
@@ -18,13 +18,13 @@
 <br>
 
 <div>
-  <img align="right" alt="Blastoise" width="200px" height="200px" src="aquigif"/>
+  <img align="right" alt="Blastoise" width="250px" height="250px" src="blastoise.gif"/>
 </div>
 
 ```js
-import Desenvolvedora from 'noemisoares';
-class SobreMim extends Desenvolvedora {
-  nome     = 'Noemi Soares Gonçalves da Silva';
+import Engenheira from 'noemisoares';
+class SobreMim extends Engenheira {
+  nome = 'Noemi Soares Gonçalves da Silva';
   local = 'Recife, PE';
   pronomes = 'ela / dela';
 }
@@ -32,7 +32,7 @@ class SobreMim extends Desenvolvedora {
 
 <br>
 
-- 🎓 Estudando para me tornar Engenheira de Software
+- 🎓 Estudando para me tornar Engenheira de Software.
 - 👩🏽‍💻 Suporte de TI do Google.
 - 💻 Apaixonada por Tecnologia, Desenvolvimento, Aprendizado Contínuo e Criatividade.
 - 🤝 Disponível para colaborar em projetos e ideias inovadoras.
@@ -84,13 +84,13 @@ datainicial - final · X ano \
 
 # 👩🏽‍🎓 Formação Acadêmica
 
-<img align="left" height="50px" width="50px" alt="Unicap" src="linkcatolicaaqui"/>
+<img align="left" height="50px" width="50px" alt="Unicap" src="unicap.png"/>
 
 **Bacharelado em Ciências da Computação**\
 Universidade Católica de Pernambuco\
 jul de 2023 - atual · atual
 
-<img align="left" height="50px" width="50px" alt="Unicap" src="linkaqui"/>
+<img align="left" height="50px" width="50px" alt="Unicap" src="coursera.png"/>
 
 **Curso Suporte em TI (Google)**\
 Coursera\
@@ -98,19 +98,19 @@ jan de 2023 - Feb de 2024 · 1 ano
 
 <br>
 
-# ✉️ Contatos
+# 📱 Contatos
 
-Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e sugestões, me mande uma mensagem 😉
+Conecte-se comigo nas redes! Se precisar de ajuda ou tiver sugestões de projetos, me mande uma mensagem.
 
 <div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
